@@ -1,0 +1,20 @@
+
+
+Recipe by me
+
+Buy pizza base from super market
+buy veggies such as red and green capcicum,paneer,chilli tomato,mushroom,onion .
+Buy cheese,butter,chilli flakes,origano ,pizza sauces,etc
+
+
+procedure
+
+take the pizza base apply the pizza sauces on the base
+cut the veggies and place the veggies on the base 
+add cheese slices and greet butter and cheese add it on the top 
+bake it in an oven at pre defined temprature
+
+take out the pizza add chilli flakes and origano cut it into slices and serve it
+
+
+
